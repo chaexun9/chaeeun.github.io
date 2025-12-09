@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background: linear-gradient(to bottom, #343a40, #212529);
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
+.btn-primary {
+    padding: 14px 28px !important;
+    font-size: 20px !important;
+    font-weight: 700 !important;
+}
+#projects h3 {
+    font-size: 28px !important;
+    font-weight: 800 !important;
+}
+#projects .btn-primary {
+    padding: 14px 28px;
+    font-size: 20px;
+    font-weight: 700;
+}
